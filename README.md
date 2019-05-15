@@ -6,7 +6,7 @@
 
 This is a simple and minimal way of finding the user's network speed.
 
-[Visit the site.](https://www.imgkl.github.io/speed)
+[Visit the site.](https://imgkl.github.io/speed/)
 
 ## *CONCEPT*:
 
