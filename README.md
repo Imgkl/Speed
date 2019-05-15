@@ -2,7 +2,7 @@
 
 ## *PREVIEW*:
 
-![Alt text](README/p0.png?raw=true "Title")
+![Alt text](README/p0.png?raw=true "Preview")
 
 This is a simple and minimal way of finding the user's network speed.
 
