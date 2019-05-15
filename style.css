@@ -1,0 +1,67 @@
+html, body {
+    height:100%;
+    background-color: #FBDA61;
+background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+
+
+    overflow: hidden;
+}
+body {
+      background-color: #cccccc;
+      padding: 0;
+      margin: 0;
+    }
+    #wrap {
+      width: 100%;
+      height: 200px;
+      margin-top: 250px;
+      left: 50%;
+      top: 50%;
+      text-align: center;
+    }
+  .btn6, .btn6:link, .btn6:visited {
+  padding: 15px;
+  border: 3px solid #333;
+  color: #333;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 3px;
+  transition: all .2s ease-in-out;
+}
+.btn6:hover, .btn6:link:hover, .btn6:visited:hover {
+  background: #333;
+  border: 3px solid #333;
+  color: #fefefe;
+  border-radius: 50px;
+}
+    progress {
+      width: 50%;
+      height: 30px;
+      -webkit-appearance: none;
+      visibility: hidden;
+    }
+    progress::-webkit-progress-bar {
+      background-color: #ffffff;
+      border: 3px solid #333;
+      border-radius: 50px;
+    }
+    progress::-webkit-progress-value {
+      border-radius: 50px;
+
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+
+    }
+    #result {
+      font-size: 3.5rem;
+      font-family: 'Open Sans', sans-serif;
+    }
+    #resultDone {
+      font-size: 3rem;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+    }
+    #eta {
+      font-size: 1.5rem;
+      padding-left: 5px;
+    }
