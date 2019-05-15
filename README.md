@@ -6,6 +6,8 @@
 
 This is a simple and minimal way of finding the user's network speed.
 
+[Visit the site.](https://www.imgkl.github.io/speed)
+
 ## *CONCEPT*:
 
 This simple concept behind this web application is to calculate how much time it takes to completly download the .bin files.
